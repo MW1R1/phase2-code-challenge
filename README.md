@@ -19,7 +19,7 @@ Discharging a Bot Forever
 To discharge a bot forever, click on the red "x" button on the bot in the "Your Bot Army" section.
 This will delete the bot from the backend as well as from the "Your Bot Army" section on the frontend.
 Credits
-This app was developed by Nick Mwirigi as part of Phase 2 code challenge. If you have any questions or feedback, please contact us at #######.
+This app was developed by Nick Mwirigi as part of Phase 2 code challenge. If you have any questions or feedback, please contact us at *-*.
 
 
 
