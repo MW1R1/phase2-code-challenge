@@ -1,3 +1,4 @@
+fetch('http://localhost:8001/bots')
 import { useState } from "react";
 import BotCollection from "./BotCollection";
 import YourBotArmy from "./YourBotArmy";
