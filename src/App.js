@@ -1,4 +1,8 @@
 fetch('http://localhost:8001/bots')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error(error))
+
 import { useState } from "react";
 import BotCollection from "./BotCollection";
 import YourBotArmy from "./YourBotArmy";
